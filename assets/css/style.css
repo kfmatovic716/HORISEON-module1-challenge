@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Revised selector reflecting new semantic tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,11 +16,13 @@ header {
     color: #ffffff;
 }
 
+/* Formatting for the name of company Horiseon */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Color of 3 letters only in company name - revised selector */
 .seo {
     color: #d9dcd6;
 }
@@ -32,6 +35,7 @@ header div {
     font-size: 20px;
 }
 
+/* Consolidated to single selector */
 li {
     display: inline-block;
     margin-left: 25px;
@@ -82,22 +86,26 @@ p {
     background-color: #2589bd;
 }
 
+/* New class inside class benefit  */
 .benefit-desc  {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Consolidated to one selector */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* New class to consolidate images in class benefit-desc */
 .icon {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* New semantic element replacing different div classes inside class content */
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,15 +115,18 @@ section {
     color: #ffffff;
 }
 
+/* New selector for the images in section element */
 section img {
     max-height: 200px;
 }
 
+/* New h2 selector for the subtitles of section headers */
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* New footer tag, replaced the footer class */
 footer {
     padding: 30px;
     clear: both;
@@ -123,6 +134,7 @@ footer {
     text-align: center;
 }
 
+/* Created id to preserve the format of text */
 #footer-txt {
     font-size: 20px;
     font-weight:bold;
