@@ -6,9 +6,13 @@
 | CSS     | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)      |   
 | Git | [https://git-scm.com/](https://git-scm.com/)     |    
 
+<hr>
+
 ## Description
 
 Horiseon Marketing Agency aims to improve its codebase to conform with accessibility standards to optimize their website for search engines. We are hired to refactor their existing site for this purpose of enhancing accessibility. 
+
+<hr>
 
 ## ACCEPTANCE CRITERIAS given a webpage meets accessibility standards
 * When the source code is viewed, should find semantic html elements
@@ -16,6 +20,8 @@ Horiseon Marketing Agency aims to improve its codebase to conform with accessibi
 * When image elements are viewed, should find accessible alt attributes
 * When heading elements are viewed, they should fall on sequential order
 * When title elements are viewed, should find a concise, descriptive title
+
+<hr>
 
 ## Steps in Code Refactoring
 
@@ -50,16 +56,19 @@ Horiseon Marketing Agency aims to improve its codebase to conform with accessibi
 9. Cosolidated all h2 tags from secetion element to one slector h2 since property-values are the same.
 
 
-
+<hr>
 
 ## Learning Outcomes
 
-Code refactoring is one of the most important skill of a web developer because of the followig:
+Code refactoring is one of the most important skill of a web developer because of the following:
 * Help build growth mindset, due to the patience and focus that a developer needs to endure while understanding the meaning of each line of code
 * Recognize patterns of behavior between the elements, styling and positioning
 * Learn to simplify by consolidating redundant codes and improve readability
 * Learn to find better approach to a problem
 
+<hr>
+
+ <img src="assets/images/marketing.jpeg" alt="marketing" />
 
 ## Author Info
 ### Katherine Matovic
