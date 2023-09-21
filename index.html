@@ -4,11 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>website</title>
+    <title>Horiseon Marketing Agency </title>
+    <!-- CHANGE #1: Updated title with a more descriptive title -->
 </head>
 
 <body>
     <header>
+    <!-- CHANGE #2: Replaced div to a semantic element HEADER & match to header selector in css-->
     <!-- <div class="header"> -->
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
@@ -29,6 +31,7 @@
     <div class="hero"></div>
     <div class="content">
         <section>
+        <!-- Change #3: Replaced divs to semantic element SECTION & match to section selector in css -->
         <!-- <div class="search-engine-optimization"> -->
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="notebook and laptop with magnifying glass"/>
             <h2>Search Engine Optimization</h2>
@@ -58,6 +61,7 @@
     </div>
     <div class="benefits">
         <div class="benefit-desc">
+        <!-- CHANGE #4: Create a common class "benefit-desc" to consolidate 3 selectors that sets the margin and color of this section into one selector -->
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" class="icon" alt="inbound bulb icon"/>
             <p>
@@ -78,10 +82,12 @@
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </div>
-    </div>                                                                                                                                                                                                                          
+    </div>                     
+    <!-- CHANGE #5: Replaced div to a semantic element FOOTER   -->
     <!-- <div class="footer"> -->
     <footer>
-        <h2>Made with ❤️️ by Horiseon</h2>
+        <p id="footer-txt">Made with ❤️️ by Horiseon</p>
+        <!-- CHANGE #6: Since this is a footer, replaced h2 tag with p tag and added an id to keep the font format -->
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>

@@ -111,7 +111,7 @@ section img {
     max-height: 200px;
 }
 
-section h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -123,6 +123,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+#footer-txt {
     font-size: 20px;
+    font-weight:bold;
 }
