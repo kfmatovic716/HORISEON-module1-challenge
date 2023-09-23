@@ -1,6 +1,8 @@
 # HORISEON MARKETING AGENCY
- <h2><a href="https://kfmatovic716.github.io/HORISEON-module1-challenge/">Visit Us</a><h2>
+ <h3><a href="https://kfmatovic716.github.io/HORISEON-module1-challenge/">Visit the Website</a><h3>
 
+<img src="assets/images/horiseon.png" alt="site"/>
+<img src="assets/images/horiseon2.png" alt="site"/>
 
 | Technology Used         | Resource URL           | 
 | ------------- |:-------------:| 
